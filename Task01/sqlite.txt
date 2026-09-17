@@ -1,0 +1,10 @@
+SQLite version 3.53.4 2026-07-24
+
+Режимы вывода .mode:
+ascii, box, column, csv, html, insert, json, line, list, markdown, qbox, quote, table, tabs, tcl
+
+Дополнительные настройки вывода:
+.headers on|off   - показывать/скрывать заголовки столбцов
+.separator STR    - разделитель столбцов
+.nullvalue STR    - чем заменять NULL
+
