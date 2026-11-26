@@ -1,0 +1,4 @@
+/service_station.db
+/service_station.db-journal
+/service_station.db-wal
+/service_station.db-shm
